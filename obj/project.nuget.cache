@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIBLm0lStBov1jvzpERTGAkSsedzMenzS74aToyp4FUFjJ0sGgxf/4VqM6KoCo/9bzv4XtvlalSHT4kl8Nfyfw==",
+  "success": true,
+  "projectFilePath": "/home/weed/Documents/code/c#/first-steps/first-steps.csproj",
+  "expectedPackageFiles": [
+    "/home/weed/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

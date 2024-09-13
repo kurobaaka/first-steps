@@ -1,0 +1,15 @@
+/home/weed/Documents/code/c#/first-steps/bin/Debug/net8.0/first-steps
+/home/weed/Documents/code/c#/first-steps/bin/Debug/net8.0/first-steps.deps.json
+/home/weed/Documents/code/c#/first-steps/bin/Debug/net8.0/first-steps.runtimeconfig.json
+/home/weed/Documents/code/c#/first-steps/bin/Debug/net8.0/first-steps.dll
+/home/weed/Documents/code/c#/first-steps/bin/Debug/net8.0/first-steps.pdb
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/first-steps.GeneratedMSBuildEditorConfig.editorconfig
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/first-steps.AssemblyInfoInputs.cache
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/first-steps.AssemblyInfo.cs
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/first-steps.csproj.CoreCompileInputs.cache
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/first-steps.sourcelink.json
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/first-steps.dll
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/refint/first-steps.dll
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/first-steps.pdb
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/first-steps.genruntimeconfig.cache
+/home/weed/Documents/code/c#/first-steps/obj/Debug/net8.0/ref/first-steps.dll
